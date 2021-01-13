@@ -12,6 +12,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purvitsharma)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=purvitsharmar&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=purvitsharma&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/purvitsharma) 
