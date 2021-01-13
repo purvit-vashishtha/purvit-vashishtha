@@ -8,14 +8,13 @@
   <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
   <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/swyx?label=%40swyx&style=social"></a>  •
   <a href="https://swyx.io">Blog</a> •
-  <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton">Twitter</a> •
   <a href="https://github.com/sw-yx/README">Work README</a> •
   <a href="https://learninpublic.org/?from=GH%20README">The Coding Career Handbook</a>
 </p>
 
 ---
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm a an Aspiring Data Scientist(https://stars.github.com/)focusing on machine learning and deep learning. I
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm an Aspiring Data Scientist focusing on machine learning and deep learning.
 
 <a href="https://myoctocat.dev/@sw-yx/octocat">
   <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
