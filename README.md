@@ -12,4 +12,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=purvitsharma)](https://github.com/purvitsharma/github-readme-streak-stats)
 ![](https://github-profile-trophy.vercel.app/?username=purvitsharma)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purvitsharma)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purvitsharma)](https://github.com/purvitsharma/github-readme-stats)
