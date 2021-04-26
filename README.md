@@ -8,8 +8,8 @@
 - 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/purvit-vashishtha-914a80184/)
 
 ### Statistics
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=purvitsharma&count_private=true&show_icons=true)](https://github.com/purvitsharma/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=purvitsharma)](https://github.com/purvitsharma/github-readme-streak-stats)
-![](https://github-profile-trophy.vercel.app/?username=purvitsharma)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=purvit-vashishtha&count_private=true&show_icons=true)](https://github.com/purvit-vashishtha/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=purvit-vashishtha)](https://github.com/purvit-vashishtha/github-readme-streak-stats)
+![](https://github-profile-trophy.vercel.app/?username=purvit-vashishtha)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purvitsharma)](https://github.com/purvitsharma/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purvit-vashishtha)](https://github.com/purvit-vashishtha/github-readme-stats)
