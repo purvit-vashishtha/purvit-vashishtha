@@ -8,7 +8,7 @@
 - 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/purvit-vashishtha-914a80184/)
 
 ### Statistics
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=purvit-vashishtha&count_private=true&show_icons=true)](https://github.com/purvit-vashishtha/github-readme-stats)
+[![Github Stats]("https://github-readme-stats.vercel.app/api?username=purvit_vashishthai&show_icons=true&theme=tokyonight")
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=purvit-vashishtha)](https://github.com/purvit-vashishtha/github-readme-streak-stats)
 ![](https://github-profile-trophy.vercel.app/?username=purvit-vashishtha)
 
