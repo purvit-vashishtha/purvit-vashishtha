@@ -5,11 +5,26 @@
 - 💻 An Aspiring Data Scientist.
 - 🎯 Currently focusing on machine learning and deep learning.
 - 💬 Currently, I am learning more concepts related to machine learning and deep learning techniques.
-- 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/purvit-vashishtha-914a80184/)
+- 📫 How to reach me: vashishtha2001@outlook.com
 
 ### Statistics
 [![Github Stats]("https://github-readme-stats.vercel.app/api?username=purvit_vashishthai&show_icons=true&theme=tokyonight")
+<br/>
+<br/>
+<br/>
+<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=purvit-vashishtha)](https://github.com/purvit-vashishtha/github-readme-streak-stats)
 ![](https://github-profile-trophy.vercel.app/?username=purvit-vashishtha)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purvit-vashishtha)](https://github.com/purvit-vashishtha/github-readme-stats)
+
+### 📝 Let's Connect
+
+[<img align="left" alt="purvit1 | Twitter" width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="purvit | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+
+
+
+
+[twitter]: https://twitter.com/AyushiS38583735
+[linkedin]: https://www.linkedin.com/in/purvit-vashishtha-914a80184/
