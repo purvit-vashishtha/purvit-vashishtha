@@ -26,5 +26,5 @@
 
 
 
-[twitter]: https://twitter.com/AyushiS38583735
+[twitter]: https://twitter.com/PurvitSharma29
 [linkedin]: https://www.linkedin.com/in/purvit-vashishtha-914a80184/
