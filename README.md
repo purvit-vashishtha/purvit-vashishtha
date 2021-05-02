@@ -8,11 +8,8 @@
 - 📫 How to reach me: vashishtha2001@outlook.com
 
 ### Statistics
-[![Github Stats]("https://github-readme-stats.vercel.app/api?username=purvit_vashishthai&show_icons=true&theme=tokyonight")
-<br/>
-<br/>
-<br/>
-<br/>
+[![Github Stats]("https://github-readme-stats.vercel.app/api?username=purvit-vashishthai&show_icons=true&theme=tokyonight")
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=purvit-vashishtha)](https://github.com/purvit-vashishtha/github-readme-streak-stats)
 ![](https://github-profile-trophy.vercel.app/?username=purvit-vashishtha)
 
