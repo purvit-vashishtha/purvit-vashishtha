@@ -1,5 +1,5 @@
 
-## Hi there! I am Purvit Vashishtha.
+## Hi there!
 
 - 🌱 I’m currently pursuing my Bachelor's Degree in Computer Science from Amity University, Noida.
 - 💻 An Aspiring Data Scientist.
