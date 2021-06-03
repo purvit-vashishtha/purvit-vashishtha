@@ -8,7 +8,8 @@
 - 👨🏻‍💻 Kaggle Contributer. Link to my account: https://www.kaggle.com/purvitsharma/code
 - 📫 How to reach me: vashishtha2001@outlook.com
 <center>
-<a><img src="https://komarev.com/ghpvc/?username=SauravMaheshkar&label=Views&color=blue&style=plastic" alt="SauravMaheshkar" /></a>
+  ### 📝 Let's Connect
+<a><img src="https://komarev.com/ghpvc/?username=purvit-vashishtha&label=Views&color=blue&style=plastic" alt="purvit-vashishtha" /></a>
 </center>
 
 <a href="https://twitter.com/PurvitSharma29">
@@ -34,6 +35,7 @@
 
 <br/>
 <br/>
+
 <a href="https://github.com/purvit-vashishtha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purvit-vashishtha&theme=dark&hide_langs_below=1" />
 </a>
@@ -41,13 +43,3 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=purvit-vashishtha&show_icons=true&theme=dark&line_height=27" alt="Purvit's github stats"/>
 </a>
 
-### 📝 Let's Connect
-
-[<img align="left" alt="purvit1 | Twitter" width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="purvit | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-
-
-
-
-[twitter]: https://twitter.com/PurvitSharma29
-[linkedin]: https://www.linkedin.com/in/purvit-vashishtha-914a80184/
