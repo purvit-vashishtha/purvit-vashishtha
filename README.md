@@ -7,12 +7,12 @@
 - 💬 Currently, I am learning more concepts related to machine learning and deep learning techniques.
 - 👨🏻‍💻 Kaggle Contributer. Link to my account: https://www.kaggle.com/purvitsharma/code
 - 📫 How to reach me: vashishtha2001@outlook.com
-
- ### 📝 Let's Connect
 <center>
  
 <a><img src="https://komarev.com/ghpvc/?username=purvit-vashishtha&label=Views&color=blue&style=plastic" alt="purvit-vashishtha" /></a>
 </center>
+ ### 📝 Let's Connect
+
 
 <a href="https://twitter.com/PurvitSharma29">
   <img alt="Twitter" src="https://img.shields.io/badge/PurvitSharma29%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> 
