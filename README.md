@@ -5,7 +5,7 @@
 - 💻 An Aspiring Data Scientist.
 - 🎯 Currently focusing on machine learning and deep learning.
 - 💬 Currently, I am learning more concepts related to machine learning and deep learning techniques.
-- 👨🏻‍💻 Kaggle Contributer. Link to my account: https://www.kaggle.com/purvitsharma/code
+- 👨🏻‍💻 Kaggle Notebooks Expert. Link to my account: https://www.kaggle.com/purvitsharma/code
 - 📫 How to reach me: vashishtha2001@outlook.com
 <center>
  
