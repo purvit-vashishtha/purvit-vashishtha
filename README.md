@@ -5,7 +5,7 @@
 - 💻 An Aspiring Data Scientist.
 - 🎯 Currently focusing on machine learning and deep learning.
 - 💬 Currently, I am learning more concepts related to machine learning and deep learning techniques.
-- 👨🏻‍💻 Kaggle Notebooks Expert. Link to my account: https://www.kaggle.com/purvitsharma/code
+- 👨🏻‍💻 Kaggle Notebooks Expert. Link to my account: [Purvit Vashishtha](https://www.kaggle.com/purvitsharma/code)
 - 📫 How to reach me: vashishtha2001@outlook.com
 <center>
  
@@ -25,7 +25,6 @@
  <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </a>
 
-<br/>
 <br/>
 
 ## 🛠  Technologies and Tools
