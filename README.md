@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently pursuing my Bachelor's Degree in Computer Science from Amity University, Noida.
 - 💻 An Aspiring Data Scientist.
-- 🎯 Currently focusing on machine learning and deep learning.
+- 🎯 Chess player ♔.
 - 💬 Currently, I am learning more concepts related to machine learning and deep learning techniques.
 - 👨🏻‍💻 Kaggle Notebooks Expert. Link to my account: [Purvit Vashishtha](https://www.kaggle.com/purvitsharma/code)
 - 📫 How to reach me: vashishtha2001@outlook.com
