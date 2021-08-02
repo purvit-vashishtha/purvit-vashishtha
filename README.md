@@ -47,4 +47,4 @@
  
  ## What I'm Listening.
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lcuqicdkzo0m4jlbreydok8bh&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lcuqicdkzo0m4jlbreydok8bh&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
