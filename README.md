@@ -44,7 +44,3 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=purvit-vashishtha&show_icons=true&theme=dark&line_height=27" alt="Purvit's github stats"/>
 </a>
 
- 
- ## What I'm Listening.
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lcuqicdkzo0m4jlbreydok8bh&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
