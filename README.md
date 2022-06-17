@@ -1,5 +1,5 @@
 
-## Hi there, I'm Purvit Vashishtha <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
+## Hi there, I'm Purvit Vashishtha
 
 - 🌱 I’m currently pursuing my Bachelor's Degree in Computer Science from Amity University, Noida.
 - 💻 An Aspiring Data Scientist.
