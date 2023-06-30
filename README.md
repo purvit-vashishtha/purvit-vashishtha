@@ -4,7 +4,7 @@
 - 🌱 I’m currently pursuing my Bachelor's Degree in Computer Science from Amity University, Noida.
 - 💻 An Aspiring Data Scientist.
 - 🎯 Chess player ♔.
-- 💬 Data Science Intern at L&T
+- 💬 Data Science/ Data Engineer Intern at Ericsson
 - 👨🏻‍💻 Kaggle Notebooks Expert. Link to my account: [Purvit Vashishtha](https://www.kaggle.com/purvitsharma/code)
 - 📫 How to reach me: vashishtha2001@outlook.com
 <center>
